@@ -1,3 +1,4 @@
+salt
 milk (LF)
 sugar
 flour
