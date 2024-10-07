@@ -1,4 +1,6 @@
 dates
+salt
+milk (LF)
 sugar
 flour
 water
